@@ -1,0 +1,8 @@
+requests
+json
+spacy
+matplotlib
+Pillow
+scikit-learn
+beautifulsoup4
+numpy
